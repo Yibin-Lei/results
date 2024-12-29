@@ -1,0 +1,23 @@
+{
+    "name": "Yibin-Lei/LENS-8000",
+    "revision": "ac92d9fcf5348ce97f898a6d350b88f9bbd5eccb",
+    "release_date": "2024-12-29",
+    "languages": [
+      "eng-Latn"
+    ],
+    "n_parameters": 7127056384,
+    "memory_usage": null,
+    "max_tokens": 32768,
+    "embed_dim": 8000,
+    "license": "apache-2.0",
+    "open_weights": true,
+    "public_training_data": true,
+    "public_training_code": true,
+    "framework": ["Transformers"],
+    "reference": "https://huggingface.co/Yibin-Lei/LENS-8000",
+    "similarity_fn_name": "cosine",
+    "use_instructions": true,
+    "adapted_from": "mistralai/Mistral-7B-v0.1",
+    "superseded_by": null,
+    "loader": null
+  }
